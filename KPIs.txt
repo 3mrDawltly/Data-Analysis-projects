@@ -1,0 +1,26 @@
+by year
+-------
+-------
+Total sales (hero)
+Total costs
+Total Profit
+GM%
+Total orders
+qty
+
+compare the performance for each kpi
+with the performance last year
+-------------------------------------
+Sales by channels
+Sales by time 
+sales by teams
+sales by Stores
+sales by region
+
+compare the performance for each kpi
+with the performance last year
+-------------------------------------
+
+
+
+
